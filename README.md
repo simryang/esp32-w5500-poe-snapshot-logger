@@ -1,0 +1,1 @@
+# esp32-w5500-poe-snapshot-logger
